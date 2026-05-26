@@ -195,7 +195,7 @@ Based in Cairo, Egypt · Open to senior engineering & tech lead roles.
 <h2 align="center">Connect With Me 📬</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahmed-sherif-516a5a213" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-sherif01/" target="_blank">
     <img src="https://user-images.githubusercontent.com/45398293/216767376-66c84f1f-dee5-4eba-afca-527fdd637953.gif" width="48px" alt="LinkedIn">
   </a>
   <a href="https://github.com/AhmedSherif4" target="_blank">
